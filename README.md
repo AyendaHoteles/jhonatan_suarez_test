@@ -1,6 +1,24 @@
-# Rubytify
+# README
 
-## Instructions
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- For the rubytify instructions check this gist: https://gist.github.com/zidfrid/f22503ebdee815579107598ebd842f6b 
-- To upload the code create your own fork of this repo and start a pull request to this repo once you're done with your changes.
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
